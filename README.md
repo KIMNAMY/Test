@@ -1,3 +1,3 @@
 # Test
-![Alt text](/path/to/img.jpg)
-![Alt text](/path/to/img.jpg "Optional title")
+![https://img.freepik.com/free-photo/close-up-portrait-on-beautiful-cat_23-2149214373.jpg?w=2000](/path/to/img.jpg)
+![https://img.freepik.com/free-photo/close-up-portrait-on-beautiful-cat_23-2149214373.jpg?w=2000](/path/to/img.jpg "Optional title")
